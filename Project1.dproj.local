@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.094,=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.590,C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit5.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.936,=C:\Users\Tomek1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,C:\Users\Tomek1\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,C:\Users\Tomek1\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.823,=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.229,C:\Users\Tomek1\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.783,=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit5.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.301,=C:\Users\Tomek1\Documents\RAD Studio\Projects\matury\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>
